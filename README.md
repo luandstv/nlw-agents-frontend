@@ -14,6 +14,14 @@ A stack principal utilizada no desenvolvimento deste projeto foi:
 - **shadcn/ui**: Coleção de componentes de UI reusáveis, construídos sobre o Tailwind CSS.
 - **Biome**: Ferramenta integrada para formatação e linting de código, garantindo a consistência e qualidade do código.
 
+## ✨ Funcionalidades
+
+Atualmente, a aplicação conta com as seguintes funcionalidades:
+
+- **Listagem de Salas:** Visualize uma lista de salas criadas recentemente na página inicial.
+- **Detalhes da Sala:** Cada item da lista exibe o nome da sala, há quanto tempo foi criada e o número de perguntas existentes.
+- **Acesso Rápido:** Entre em uma sala diretamente da lista para participar ou visualizar as discussões.
+
 ## ⚙️ Configuração e Setup
 
 Siga os passos abaixo para configurar e executar o projeto em seu ambiente local.
