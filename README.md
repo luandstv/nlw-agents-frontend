@@ -21,6 +21,7 @@ Atualmente, a aplicação conta com as seguintes funcionalidades:
 - **Listagem de Salas:** Visualize uma lista de salas criadas recentemente na página inicial.
 - **Detalhes da Sala:** Cada item da lista exibe o nome da sala, há quanto tempo foi criada e o número de perguntas existentes.
 - **Acesso Rápido:** Entre em uma sala diretamente da lista para participar ou visualizar as discussões.
+- **Gravação de Áudio:** Dentro de uma sala, é possível gravar áudios que são enviados em tempo real para o servidor, permitindo a transcrição e análise posterior.
 
 ## ⚙️ Configuração e Setup
 
